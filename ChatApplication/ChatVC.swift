@@ -19,6 +19,8 @@ extension ChatVC {
         
         configure()
         configureMessageTextField()
+        
+        // Test branch
     }
 }
 
